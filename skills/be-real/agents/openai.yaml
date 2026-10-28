@@ -1,0 +1,4 @@
+interface:
+  display_name: "Be Real"
+  short_description: "Choose 1–2 priorities within a shared monthly time budget"
+  default_prompt: "Use $be-real to assess demand, competition, payoff, and effort across my projects, then recommend at most one or two priorities within my available hours and commitments this month and next."

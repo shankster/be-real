@@ -1,0 +1,13 @@
+Generated and refined with the built-in imagegen tool.
+Asset: assets/be-real-hero.png
+
+Concept and prompt summary:
+A seated developer surrounded by floating browser windows showing believable vibe-coded apps: habits, expenses, focus timer, notes, bookings, job tracking, analytics, AI writing, transcription, and code editors. Golden and blue glowing threads connect the apps to the developer's hands, expressing how each project competes for attention. Dark cinematic atmosphere, restrained blue and purple app surfaces, white and golden headline typography.
+
+Exact image copy:
+Be Real
+You can build everything
+But should you?
+
+Final refinement:
+Remove the adjacent concept label and vertical divider, preserving the Be Real wordmark. Correct the Job Tracker window so its Saved, Applied, and Interview columns fit inside one continuous frame with consistent padding and no overflow. Preserve the developer, composition, other app windows, glowing connections, and headline.

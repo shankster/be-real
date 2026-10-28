@@ -1,0 +1,18 @@
+# Local generated files
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+
+# Local assessment data and installation artifacts
+.be-real/
+portfolio.json
+portfolio-history/
+project.json
+.write.lock
+.agents/
+.claude/
+.cursor/
+.windsurf/
+skills-lock.json
